@@ -1,0 +1,20 @@
+Apple - $1.8
+Banana - $0.6
+Cherry - $3.6
+Date - $3.0
+Elderberry - $4.8
+Fig - $3.3
+Grape - $2.4
+Honeydew - $4.2
+Indian Fig - $5.4
+Jackfruit - $6.0
+Kiwi - $1.5
+Lemon - $0.9
+Mango - $2.1
+Nectarine - $2.7
+Orange - $1.2
+Papaya - $2.4
+Quince - $3.9
+Raspberry - $4.2
+Strawberry - $3.3
+Tangerine - $1.5
