@@ -32,4 +32,4 @@ while(True):
     # somwhole jab eyeh end per pohanch jaen stop
 
 
-turtle.done()
+turtle.mainloop()
